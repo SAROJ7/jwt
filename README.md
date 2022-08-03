@@ -1,4 +1,4 @@
-##<h1> Use of Web token in ExpressJS</h1>
+<h1> Use of Web token in ExpressJS</h1>
 
 ### <h3> Steps to Follow</h3>
 
@@ -10,4 +10,3 @@
 <li> Ready to go</li>
 
 </ul>
-####
